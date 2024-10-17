@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-yz@ct€-18z-rrhqh-3u_h*h6w&#dtsi+l€tj5l%095h@a3
 DEBUG = True
 
 ALLOWED_HOSTS = [
-     '8000-paddyhockey-useiresport-0luhaxh10q5.ws-eu116.gitpod.io',
+     '8000-paddyhockey-useiresport-wga719bqold.ws-eu116.gitpod.io',
 ]
 
 
@@ -104,7 +104,7 @@ AUTHENTICATION_BACKENDS = [
 SITE_ID = 1
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://8000-paddyhockey-useiresport-0luhaxh10q5.ws-eu116.gitpod.io'
+    'https://8000-paddyhockey-useiresport-wga719bqold.ws-eu116.gitpod.io'
 ]
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
